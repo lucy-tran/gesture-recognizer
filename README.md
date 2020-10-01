@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Gesture Recognizer
 
-Info about your project goes here
+An app that allows users to input templates and recognizes new gestures against the saved templates.
